@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-4hgcmkvzgb=zvcw8(*rlaw^ba=7mf4(w3egtt)f_)=ahkj#b15
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['my_text.txt.com','127.0.0.1']
+ALLOWED_HOSTS = ['find-text-1.onrender.com','127.0.0.1']
 
 
 # Application definition
